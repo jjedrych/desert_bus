@@ -1,1 +1,16 @@
+One of my very first projects from high school, its easy to say I've come a long way since then :)
+
+This project a very primitive recreation of Desert Bus on the Sega CD (gameplay: https://www.youtube.com/watch?v=2LtiHla1dNg) 
+
+I did the best I could to carry over/add these following features:
+- An endless gameplay loop
+- Day and night cycle based on the system local time
+- A realtime clock
+- Misaligned steering that shifts the car to the left as you drive
+- lack of a pause feature
+
+How you Play
+
+Press and hold SPACEBAR to accelerate while using A and D to steer. In order to score a point the player must drive approximately 
+1 hour contiunously. If the player drives off the road they will recieve a game over and must restart from 0 distance travelled 
 
